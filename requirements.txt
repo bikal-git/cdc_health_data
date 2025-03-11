@@ -2,7 +2,6 @@ geopandas
 matplotlib
 numpy
 pandas
-re
 requests
 scipy
 seaborn
